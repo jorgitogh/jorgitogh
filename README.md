@@ -6,12 +6,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Ztcm4zbjMwbHA0ODAwNWgyaWJ4MnNxZjk2dmlucnZ0cml4eDEybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif" height="300" />
-<br><br><br>
-
-
-
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnowMmlmOTdmdDk5Yzhtem5qbHg1dXIwY3k5M3VsZTUzM2U5dDY4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" height="300" />
 
 
 <div align="left">
@@ -19,8 +14,6 @@
 
 # About me 
 <h3>
-
-    💻 System programming languages • Python • C • Matlab 
 
     📖 Bsc Physics at UV • Msc in AI at EDEM
 
@@ -30,8 +23,22 @@
     
     🎿⚽ Sports lover • Football player • Ski enjoyer
 </h3>
+
+# Coding lenguages
+
+</div>
+<div style="display: inline_block"><br>
+       
+  <img align="left" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="left" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="left" alt="Rafa-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
+  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="left" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">         
+</div>
+<br><br><br>
+
 <p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jorgitogh&show_icons=true" alt="jorgitogh" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jorgitogh&show_icons=true" alt="jorgitogh" height = "200" />
 </p>
 
 <br>
