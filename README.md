@@ -7,7 +7,7 @@
 
 ## About me 
 <h4>
-    💼  Hollister Co • Key Holder 
+    💼 Hollister Co • Key Holder 
     💻 System programming languages • Python • C • Matlab 
     📖 Bsc Physics at UV • Msc in Artificial Intelligence at EDEM 
     🌎 Erasmus • University of Torino 
