@@ -5,7 +5,7 @@
 <br><br>
 <pre>
 
-## About me 
+# About me 
 <h4>
     💼 Hollister Co • Key Holder 
     💻 System programming languages • Python • C • Matlab 
@@ -15,7 +15,7 @@
     🎿⚽ Sports lover • Football player • Ski enjoyer
 </h4>
 
- ## Connect with me   
+ # Connect with me   
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jorge-greus/)
 
 </pre>
