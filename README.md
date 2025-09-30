@@ -5,15 +5,15 @@
 <br><br>
 <pre>
 
-## About me
-    💼 Hollister Co • Key Holder 
+## About me 
+<h4>
+    💼  Hollister Co • Key Holder 
     💻 System programming languages • Python • C • Matlab 
     📖 Bsc Physics at UV • Msc in Artificial Intelligence at EDEM 
     🌎 Erasmus • University of Torino 
     🎮 Music • Games • Anime • Code 
     🎿⚽ Sports lover • Football player • Ski enjoyer
-   
-
+</h4>
 
  ## Connect with me   
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jorge-greus/)
