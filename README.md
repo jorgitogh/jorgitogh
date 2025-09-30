@@ -14,7 +14,8 @@
 <br><br>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Ztcm4zbjMwbHA0ODAwNWgyaWJ4MnNxZjk2dmlucnZ0cml4eDEybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.gif" height="200" />
 <br><br><br>
-    
+
+ ## Connect with me   
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jorge-greus/)
 
 </div>
