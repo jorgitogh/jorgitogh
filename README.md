@@ -18,7 +18,7 @@
 
 
 # About me 
-
+<h3>
 
     💻 System programming languages • Python • C • Matlab 
 
@@ -29,7 +29,7 @@
     🎮 Music • Games • Anime • Code 
     
     🎿⚽ Sports lover • Football player • Ski enjoyer
-
+</h3>
 <p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jorgitogh&show_icons=true" alt="jorgitogh" />
 </p>
